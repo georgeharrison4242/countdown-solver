@@ -1,6 +1,6 @@
 # Countdown Solver
 A Python-based desktop application to solve number and word 
-problems from the UK gameshow 'Countdown'.
+problems from the UK game-show 'Countdown'.
 
 Number problems are described as follows:
 * **Input**: 6 integers from the sets {25,50,75,100} and {1,...,10},
